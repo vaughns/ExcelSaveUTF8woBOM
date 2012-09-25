@@ -6,7 +6,7 @@ Saves data from active workbook in UTF-8 without Byte Order Mark (BOM)
 ------------------
 
 The request:  
-> "We have to export this data in UTF-8 without a byte order mark, but we can't install any software. We do have Excel 2003..."
+> *We have to export this data in UTF-8 without a byte order mark, but we can't install any software. We do have Excel 2003...*
 
 Process:
 
